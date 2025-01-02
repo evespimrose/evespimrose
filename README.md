@@ -1,6 +1,6 @@
 <div align="center">
 
-!header
+!header(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jang%20Hyoung%20Taek&fontColor=000000&animation=twinkling&reversal=false)
 
 <p align="center">
   <a href="mailto:bigjht34@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -22,10 +22,10 @@
 📚 Working In Progress
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=TheAlgorithms&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DirectX11-00B2FF?style=flat-square&logo=Microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
+<!--
 <details>
 <summary>More About Me</summary>
 <br>
@@ -42,5 +42,6 @@
 • Improve Algorithm Skills
 
 </details>
+-->
 
 </div>
