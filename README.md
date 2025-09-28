@@ -46,6 +46,10 @@
 
 </details>
 -->
+<details>
+<summary>Git 컨벤션 가이드</summary>
+<div markdown="1">
+
 # Git 컨벤션 가이드
 
 ## 📋 개요
@@ -305,5 +309,6 @@ fi
 
 이 컨벤션을 따르면 프로젝트의 Git 히스토리가 깔끔하고 이해하기 쉬워집니다! 🚀
 
-
+</div>
+</details>
 </div>
